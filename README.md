@@ -1,6 +1,6 @@
 ## To Run The Program
 
-git clone <Paste Repo Link>
+git clone "Paste Repo Link"
 
 cd bluejayDeliveryTask
 
